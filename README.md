@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Ekran görüntüsü 2024-01-25 125251](https://github.com/safacanmetin/safacanmetin/assets/48357757/b4649de7-50e4-4271-8f65-e76fd47ad49c)
+
+
 <!--
 **safacanmetin/safacanmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
